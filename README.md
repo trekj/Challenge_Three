@@ -1,6 +1,6 @@
 # Crypocurrency Arbitrage
 
-This python is about a project that will collect data, prepare the data, and analyse outputs, including any visualizations that will give us an idea of which time period in a three month span to get a profitable trade. 
+This python project is about collecting data, prepare the data, and analyse the outputs, including visuals like charts that will give us an idea of which time period in a three month span to get a profitable trade. 
 
 ## Technologies
 
