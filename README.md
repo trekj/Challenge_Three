@@ -12,13 +12,17 @@ This project is written in ***Python 3.8*** with the following libraries:
 ***pathlib***     -Provides various classes representing file system paths 
                    with semantics appropriate for different operating systems
               
-***csv***         -To import and export format for spreadsheets and databases.           
+***csv***         -To import and export format for spreadsheets and databases.  
+
+***numpy***       -is a general-purpose array-processing package. It provides a high-performance multidimensional array object, and tools for working with these arrays. It is the fundamental package for scientific computing with Python.
 
 ***matpoltlib***  -is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 
+
+
 ## Usage
 
-After cloning the repository, run the program by typing ***cryptoarbitrage.py***. 
+After cloning the repository, run the program by typing ***crypto_arbitrage.ipynb***. 
 
 ## Contributors
 
