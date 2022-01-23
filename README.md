@@ -1,1 +1,29 @@
-# Challenge_Three
+# Crypocurrency Arbitrage
+
+This python is about a project that will collect data, prepare the data, and analyse outputs, including any visualizations that will give us an idea of which time period in a three month span to get a profitable trade. 
+
+## Technologies
+
+This project is written in ***Python 3.8*** with the following libraries:
+
+***panda***       -a Python package that provides fast, flexible, and expressive data structures designed to make working with 
+                    "relational" or "labeled" data both easy and intuitive.
+
+***pathlib***     -Provides various classes representing file system paths 
+                   with semantics appropriate for different operating systems
+              
+***csv***         -To import and export format for spreadsheets and databases.           
+
+***matpoltlib***  -is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+
+## Usage
+
+After cloning the repository, run the program by typing ***cryptoarbitrage.py***. 
+
+## Contributors
+
+**James Tagapan**
+jtagapan@gmail.com
+
+## License
+Licensed under the MIT License. Copyright 2020
